@@ -1,0 +1,2 @@
+# snap-inheritance
+snap
